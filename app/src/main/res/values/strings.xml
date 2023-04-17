@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalPractice</string>
+    <string name="MainName">FoodRec</string>
+    <string name="ToNext">ToNext</string>
+    <string name="numberOfAthletes">No. of Athletes</string>
+    <string name="btnCompute">ComputeCost</string>
+    <string name="resultValue">$72/Athletes</string>
+
+    <string-array name="location">
+        <item>Lake Placid</item>
+        <item>Big Island Hawaii</item>
+        <item>Miami</item>
+    </string-array>
+</resources>
